@@ -6,7 +6,8 @@
 
 - 🔭 I’m currently working on university projects
 - 🌱 I’m currently learning Sql, NodeJs, JavaScript, TypeScript, React, React Native, Redux, Kotlin and Java.
-<div margin-right="40px">
+
+<div>
 <img loading="Sql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40px" heigt="40px">
 <img loading="NodeJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40px" heigt="40px">
 <img loading="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40px" heigt="40px">
@@ -28,7 +29,7 @@
 <a href = "mailto:thiagowpaim@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/thiago-paim/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-          
+
           
 
 <!--
